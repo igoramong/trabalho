@@ -12,8 +12,7 @@ Repositório central para todos os trabalhos acadêmicos de **Igor Amon**, organ
 - [Sobre](#sobre)  
 - [Estrutura de Pastas](#estrutura-de-pastas)  
 - [Como Utilizar](#como-utilizar)  
-- [Contribuições](#contribuições)  
-- [Licença](#licença)  
+- [Contribuições](#contribuições)   
 - [Autor](#autor)  
 
 ---
@@ -21,6 +20,8 @@ Repositório central para todos os trabalhos acadêmicos de **Igor Amon**, organ
 ## Sobre
 
 Este repositório foi criado para concentrar todos os projetos e atividades realizadas durante a graduação, facilitando o acompanhamento da evolução do código e o versionamento.
+
+Por enquanto possui apenas a sessão de bootcamp, outras seções serão adicionadas futuramente conforme necessidade
 
 ## Estrutura de Pastas
 
@@ -61,12 +62,9 @@ Para contribuir:
 4. Envie para o branch (`git push origin feature/nova-materia`).  
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Autor
 
 **Igor Amon**  
 - GitHub: https://github.com/igoramong  
-- Email: seu-email@exemplo.com  
+- Email: igoramonnas@gmail.com
