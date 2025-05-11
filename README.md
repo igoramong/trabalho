@@ -1,7 +1,6 @@
 
 # Trabalho Acadêmico
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Repositório central para todos os trabalhos acadêmicos de **Igor Amon**, organizado por disciplina e mantido com versionamento Git.
 
